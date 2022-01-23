@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stampeedo101
 - 👀 I’m interested in programming, Math and Physics.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
